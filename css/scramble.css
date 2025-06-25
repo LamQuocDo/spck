@@ -4,16 +4,9 @@
   font-family: 'Press Start 2P', cursive;
   font-size: 20px;
   height: 40px;
-  color: #98a1a4;
+  color: #949ea8;
   padding-top: 20px;
+  text-align: center;
 }
 
 
-
-header {
-  display: flex;
-  justify-content: center;
-  background-color: #165d60;
-  border-radius: 15px;
-  margin-left: 210px;
-}
